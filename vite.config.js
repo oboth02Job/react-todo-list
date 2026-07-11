@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // Set a string for the base path (must be quoted). Use '/' for development
   // or '/react-todo-app/' if deploying to a subpath.
-  base: '/',
+  base: "/react-todo-list",
 });
